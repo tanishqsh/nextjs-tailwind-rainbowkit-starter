@@ -16,9 +16,9 @@ const Home: NextPage = () => {
               Get Started with Rainbow Kit 🌈🧰
             </span>
           </h1>
-          <p className="mt-2 text-gray-400">
+          <h3 className="mt-2 text-gray-400">
             Pre-installed NextJS (Typescript), TailwindCSS, Rainbowkit, Wagmi
-          </p>
+          </h3>
           <div className="mt-4">
             <ConnectButton />
           </div>
