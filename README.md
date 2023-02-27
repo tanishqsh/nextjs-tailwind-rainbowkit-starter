@@ -2,6 +2,9 @@
 
 Easy to setup and use. Thanks to the great work by teams at NextJS, Rainbow.
 
+## Demo
+[Live Deployed Starter](https://nextjs-tailwind-rainbowkit-starter-rouge.vercel.app/)
+
 ## How to use
 
 Coming soon
